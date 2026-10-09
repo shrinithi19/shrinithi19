@@ -1,29 +1,27 @@
-<!-- Repo name must be exactly: shrinithi19/shrinithi19 (public). Keep the assets/ folder next to this file. -->
-
 <div align="center">
-
 <img src="assets/header.svg" width="100%" alt="Shrinithi, AI/ML Engineer" />
-
 <br/>
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-0A66C2?style=for-the-badge&labelColor=161b22)](https://shrinithi19.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&labelColor=161b22)](https://www.linkedin.com/in/shrinithi-nagarajan/)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-SHRINITHI__N-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=161b22)](https://leetcode.com/Shrinithi_N)
-
+<!-- <a href="https://shrinithi19.github.io/"><img src="assets/btn-portfolio.svg" height="52" alt="Portfolio" /></a> -->
+<a href="https://www.linkedin.com/in/shrinithi-nagarajan/"><img src="assets/btn-linkedin.svg" height="52" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/Shrinithi_N"><img src="assets/btn-leetcode.svg" height="52" alt="LeetCode" /></a>
+ 
 <img src="assets/divider.svg" width="100%" alt="" />
-
 </div>
-
 ## 👋 About Me
-
-Final-year Computer Science student (Data Science & AI/ML) at Sri Shakthi Institute of Engineering and Technology, graduating 2026. I build applied GenAI systems: RAG architectures, embedding model benchmarking and retrieval pipeline tuning. Computer vision is my second lane.
-
+ 
+Final-year Computer Science student (Data Science & AI/ML) at Sri Shakthi Institute of Engineering and Technology, graduating 2027. I build applied GenAI systems: RAG architectures, embedding model benchmarking and retrieval pipeline tuning. Computer vision is my second lane.
+ 
 > 🎯 **Open to:** full-time AI/ML Engineer or Software Developer roles (remote preferred)
-
+ 
 <div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
-
+## 🌐 Portfolio
+ 
+<div align="center">
+<a href="https://shrinithi19.github.io/"><img src="assets/portfolio.svg" width="100%" alt="Visit my portfolio" /></a>
+</div>
+<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
 ## 🚀 Featured Projects
-
+ 
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -46,11 +44,9 @@ Final-year Computer Science student (Data Science & AI/ML) at Sri Shakthi Instit
 </td>
 </tr>
 </table>
-
 <div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
-
 ## 🛠️ Skills
-
+ 
 <table>
 <tr>
 <td width="22%" valign="middle"><b>💻 Languages</b></td>
@@ -120,24 +116,17 @@ Final-year Computer Science student (Data Science & AI/ML) at Sri Shakthi Instit
 </td>
 </tr>
 </table>
-
 <div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
-
 ## 📊 GitHub Analytics
-
+ 
 <div align="center">
-
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=shrinithi19&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=a371f7" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrinithi19&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrinithi19&bg_color=0d1117&color=58a6ff&line=a371f7&point=ffffff&area=true&hide_border=true" width="100%" />
-
 </div>
-
 <div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
-
 ## 🎯 Current Focus
-
+ 
 ```python
 shrinithi = {
     "building":  ["FactoryPulse: predictive maintenance + GenAI copilot"],
@@ -145,13 +134,11 @@ shrinithi = {
     "seeking":   "AI/ML Engineer / Software Developer (remote)",
 }
 ```
-
+ 
 <div align="center">
-
 <img src="assets/banner.png" width="100%" alt="But what if I can?" />
-
 [Portfolio](https://shrinithi19.github.io/) · [LinkedIn](https://www.linkedin.com/in/shrinithi-nagarajan/) · [Email](mailto:shrinithinagarajan343@gmail.com)
-
+ 
 <img src="assets/footer.svg" width="100%" alt="" />
-
 </div>
+ 
