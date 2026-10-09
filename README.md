@@ -1,31 +1,42 @@
+<!-- Repo name must be exactly: shrinithi19/shrinithi19 (public). Keep the assets/ folder next to this file. -->
+
 <div align="center">
+
 <img src="assets/header.svg" width="100%" alt="Shrinithi, AI/ML Engineer" />
+
 <br/>
+
 <!-- <a href="https://shrinithi19.github.io/"><img src="assets/btn-portfolio.svg" height="52" alt="Portfolio" /></a> -->
 <a href="https://www.linkedin.com/in/shrinithi-nagarajan/"><img src="assets/btn-linkedin.svg" height="52" alt="LinkedIn" /></a>
 <a href="https://leetcode.com/Shrinithi_N"><img src="assets/btn-leetcode.svg" height="52" alt="LeetCode" /></a>
- 
+
 <img src="assets/divider.svg" width="100%" alt="" />
+
 </div>
-## 👋 About Me
- 
-Final-year Computer Science student (Data Science & AI/ML) at Sri Shakthi Institute of Engineering and Technology, graduating 2027. I build applied GenAI systems: RAG architectures, embedding model benchmarking and retrieval pipeline tuning. Computer vision is my second lane.
- 
-> 🎯 **Open to:** full-time AI/ML Engineer or Software Developer roles (remote preferred)
- 
+
+<h2>👋 About Me</h2>
+
+Final-year Computer Science student (Data Science & AI/ML) at Sri Shakthi Institute of Engineering and Technology, graduating 2026. I build applied GenAI systems: RAG architectures, embedding model benchmarking and retrieval pipeline tuning. Computer vision is my second lane.
+
+<blockquote>🎯 <b>Open to:</b> full-time AI/ML Engineer or Software Developer roles (remote preferred)</blockquote>
+
 <div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
-## 🌐 Portfolio
- 
+
+<h2>🌐 Portfolio</h2>
+
 <div align="center">
 <a href="https://shrinithi19.github.io/"><img src="assets/portfolio.svg" width="100%" alt="Visit my portfolio" /></a>
 </div>
+
 <div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
-## 🚀 Featured Projects
- 
+
+<h2>🚀 Featured Projects</h2>
+
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/shrinithi19/NCERT-Solver"><img src="assets/card-ncert.svg" width="100%" alt="Multilingual NCERT Doubt-Solver" /></a>
+<a href="https://github.com/shrinithi19/apiscout"><img src="assets/card-apiscout.svg" width="100%" alt="APIScout" /></a>
+<!-- <a href="https://github.com/shrinithi19/NCERT-Solver"><img src="assets/card-ncert.svg" width="100%" alt="Multilingual NCERT Doubt-Solver" /></a> -->
 <br/><b>Impact:</b> Answers NCERT curriculum doubts in multiple languages by retrieving from textbook content
 </td>
 <td width="50%" valign="top">
@@ -35,7 +46,7 @@ Final-year Computer Science student (Data Science & AI/ML) at Sri Shakthi Instit
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/shrinithi19/apiscout"><img src="assets/card-apiscout.svg" width="100%" alt="APIScout" /></a>
+<a href="https://github.com/shrinithi19/NCERT-Solver"><img src="assets/card-ncert.svg" width="100%" alt="Multilingual NCERT Doubt-Solver" /></a>
 <br/><b>Impact:</b> Turns REST API docs into a typed Python client automatically, no hand-written wrappers
 </td>
 <td width="50%" valign="top">
@@ -44,9 +55,11 @@ Final-year Computer Science student (Data Science & AI/ML) at Sri Shakthi Instit
 </td>
 </tr>
 </table>
+
 <div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
-## 🛠️ Skills
- 
+
+<h2>🛠️ Skills</h2>
+
 <table>
 <tr>
 <td width="22%" valign="middle"><b>💻 Languages</b></td>
@@ -116,17 +129,24 @@ Final-year Computer Science student (Data Science & AI/ML) at Sri Shakthi Instit
 </td>
 </tr>
 </table>
+
 <div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
-## 📊 GitHub Analytics
- 
+
+<h2>📊 GitHub Analytics</h2>
+
 <div align="center">
+
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=shrinithi19&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=a371f7" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrinithi19&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrinithi19&bg_color=0d1117&color=58a6ff&line=a371f7&point=ffffff&area=true&hide_border=true" width="100%" />
+
 </div>
+
 <div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
-## 🎯 Current Focus
- 
+
+<h2>🎯 Current Focus</h2>
+
 ```python
 shrinithi = {
     "building":  ["FactoryPulse: predictive maintenance + GenAI copilot"],
@@ -134,11 +154,24 @@ shrinithi = {
     "seeking":   "AI/ML Engineer / Software Developer (remote)",
 }
 ```
- 
+
+<h2>📫 Let's Connect</h2>
+
 <div align="center">
-<img src="assets/banner.png" width="100%" alt="But what if I can?" />
-[Portfolio](https://shrinithi19.github.io/) · [LinkedIn](https://www.linkedin.com/in/shrinithi-nagarajan/) · [Email](mailto:shrinithinagarajan343@gmail.com)
- 
+
+<img src="assets/connect.svg" width="100%" alt="Open to work: Let's build something together" />
+
+<br/>
+
+<!-- <a href="https://shrinithi19.github.io/"><img src="assets/btn-portfolio.svg" height="52" alt="Portfolio" /></a> -->
+<a href="https://www.linkedin.com/in/shrinithi-nagarajan/"><img src="assets/btn-linkedin.svg" height="52" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/Shrinithi_N"><img src="assets/btn-leetcode.svg" height="52" alt="LeetCode" /></a>
+<a href="mailto:shrinithinagarajan343@gmail.com"><img src="assets/btn-email.svg" height="52" alt="Email" /></a>
+
+<br/><br/>
+
+<img src="assets/banner.png" width="560" alt="But what if I can?" />
+
 <img src="assets/footer.svg" width="100%" alt="" />
+
 </div>
- 
